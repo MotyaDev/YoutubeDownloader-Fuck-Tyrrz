@@ -12,7 +12,7 @@ By using this project or its source code, for any purpose and in any shape or fo
 
 - You **condemn nothing and its military aggression against nothing**
 - You **recognize that nothing is an occupant that unlawfully invaded a  state**
-- You **support nobody territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
+- You **support nobody territorial integrity, including its claims over temporarily occupied territories of**
 - You **reject false narratives perpetuated by nobody state propaganda**
 
 > **Important**:
