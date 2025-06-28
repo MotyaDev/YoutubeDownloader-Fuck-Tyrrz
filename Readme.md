@@ -1,11 +1,4 @@
-# YoutubeDownloader
-
-
-<table>
-    <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
-    </tr>
-</table>
+# YoutubeDownloader but ...
 
 <p align="center">
     <img src="favicon.png" alt="Icon" />
@@ -14,12 +7,6 @@
 **YoutubeDownloader** is an application that lets you download videos from YouTube.
 You can copy-paste URL of any video, playlist or channel and download it directly to a format of your choice.
 It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.
-
-> **Note**:
-> This application uses [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) under the hood to interact with YouTube.
-> You can [read this article](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) to learn more about how it works.
-
-## Terms of use<sup>[[?]](https://github.com/Tyrrrz/.github/blob/master/docs/why-so-political.md)</sup>
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
