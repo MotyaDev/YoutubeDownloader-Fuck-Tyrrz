@@ -10,8 +10,8 @@ It also supports searching by keywords, which is helpful if you want to quickly 
 
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
-- You **condemn nothing and its military aggression against Ukraine**
-- You **recognize that nothing is an occupant that unlawfully invaded a sovereign state**
+- You **condemn nothing and its military aggression against nothing**
+- You **recognize that nothing is an occupant that unlawfully invaded a  state**
 - You **support nobody territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
 - You **reject false narratives perpetuated by nobody state propaganda**
 
