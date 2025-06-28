@@ -30,7 +30,7 @@ public partial class MainViewModel(
             return;
 
         var dialog = viewModelManager.CreateMessageBoxViewModel(
-            "Thank you for supporting RUssiu!!1!!!",
+            "Thank you for supporting MIR!!!!!!1!!!",
             """
             YA OCHEN RAD CHTO TI PODDDERshivauesh.
 
